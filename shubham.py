@@ -18,7 +18,7 @@ while(True):
     print('_____________________')
     time.sleep(60)
     i=i+1
-    if(i>3):
+    if(i>60):
         break
     print('select the right signal')
     print('_______________________')
